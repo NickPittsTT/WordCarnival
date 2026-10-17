@@ -1,0 +1,229 @@
+## Pre-Primer (39)
+a | *a=uh | I have a red ball.
+and | a|n|d | Mum and Dad are here.
+away | *a=uh|w|ay | The bird flew away.
+big | b|i|g | The dog is big.
+blue | b|l|ue | The sky is blue.
+can | c|a|n | I can jump high.
+come | c|*o=uh|m|*e=quiet | Come and play with me.
+down | d|ow|n | Sit down, please.
+find | f|*i=eye|n|d | Can you find my hat?
+for | f|or | This gift is for you.
+funny | f|u|nn|*y=ee | The clown is funny.
+go | g|*o=oh | We go to school.
+help | h|e|l|p | Can you help me?
+here | h|*ere=ear | Come here, {name}.
+I | *I=eye | I like mango.
+in | i|n | The cat is in the box.
+is | i|*s=zz | It is hot today.
+it | i|t | I can see it.
+little | l|i|tt|*le=ul | The ant is little.
+look | l|oo|k | Look at the moon!
+make | m|a=ay|k|e=quiet | Let us make a cake.
+me | m|*e=ee | Play with me.
+my | m|*y=eye | This is my book.
+not | n|o|t | I am not sleepy.
+one | *one=wun | I have one doll.
+play | p|l|ay | Let us play outside.
+red | r|e|d | The apple is red.
+run | r|u|n | I can run fast.
+said | s|*ai=eh|d | Mum said yes!
+see | s|ee | I see a bird.
+the | th|*e=uh | The sun is hot.
+three | th|r|ee | I have three pencils.
+to | t|*o=oo | We go to the beach.
+two | *two=too | I have two eyes.
+up | u|p | Look up at the sky.
+we | w|*e=ee | We like to sing.
+where | wh|*ere=air | Where is my shoe?
+yellow | y|e|ll|ow | The sun is yellow.
+you | y|*ou=oo | I love you.
+
+## Primer (52)
+all | *a=aw|ll | We all like ice cream.
+am | a|m | I am six.
+are | *are=ar | You are my friend.
+at | a|t | Look at me!
+ate | a=ay|t|e=quiet | I ate a mango.
+be | b|*e=ee | I will be good.
+black | b|l|a|ck | The cat is black.
+brown | b|r|ow|n | The dog is brown.
+but | b|u|t | I am small but fast.
+came | c|a=ay|m|e=quiet | Grandma came to visit.
+did | d|i|d | I did my homework.
+do | d|*o=oo | What do you like?
+eat | ea|t | Let us eat lunch.
+four | f|*our=or | A dog has four legs.
+get | g|e|t | Get your shoes, please.
+good | g|oo|d | You are a good girl.
+have | h|a|v|*e=quiet | I have a pet fish.
+he | h|*e=ee | He is my friend.
+into | i|n|t|*o=oo | Jump into the pool.
+like | l|i=eye|k|e=quiet | I like to dance.
+must | m|u|s|t | We must wash our hands.
+new | n|ew | I have new shoes.
+no | n|*o=oh | No, thank you.
+now | n|ow | Come inside now.
+on | o|n | Put on your hat.
+our | *our=ow er | This is our house.
+out | ou|t | Let us go out to play.
+please | p|l|ea|*se=zz | Pass the milk, please.
+pretty | p|r|e|tt|*y=ee | What a pretty flower!
+ran | r|a|n | The dog ran fast.
+ride | r|i=eye|d|e=quiet | I can ride my bike.
+saw | s|aw | I saw a big ship.
+say | s|ay | What did you say?
+she | sh|*e=ee | She is my sister.
+so | s|*o=oh | I am so happy.
+soon | s|oo|n | We will eat soon.
+that | th|a|t | I want that one.
+there | th|*ere=air | The ball is over there.
+they | th|*ey=ay | They like to swim.
+this | th|i|s | This is my bag.
+too | t|oo | I want to come too.
+under | u|n|d|er | The cat is under the bed.
+want | w|*a=aw|n|t | I want a drink.
+was | w|*a=uh|*s=zz | It was a sunny day.
+well | w|e|ll | I can read well.
+went | w|e|n|t | We went to the park.
+what | wh|*a=uh|t | What is your name?
+white | wh|i=eye|t|e=quiet | The cloud is white.
+who | *wh=huh|*o=oo | Who is at the door?
+will | w|i|ll | I will help me.
+with | w|i|th | Come with me.
+yes | y|e|s | Yes, I can do it!
+
+## 1st Grade (43)
+after | a|f|t|er | We play after school.
+again | *a=uh|g|*ai=eh|n | Read it again.
+an | a|n | I ate an apple.
+any | *a=eh|n|*y=ee | Do you have any toys?
+as | a|*s=zz | Run as fast as you can.
+ask | a|s|k | Ask Mum for help.
+by | b|*y=eye | Sit by me.
+could | c|*oul=oo|d | Could you help me?
+every | *e=eh|v|er|*y=ee | I brush my teeth every day.
+fly | f|l|*y=eye | Birds can fly.
+from | f|r|*o=uh|m | This card is from Gran.
+give | g|i|v|*e=quiet | Give me a hug.
+going | g|o=oh|i|ng | We are going to the beach.
+had | h|a|d | I had fun today.
+has | h|a|*s=zz | She has a red bag.
+her | h|er | I gave her a flower.
+him | h|i|m | I play with him.
+his | h|i|*s=zz | That is his hat.
+how | h|ow | How old are you?
+jump | j|u|m|p | I can jump rope.
+just | j|u|s|t | I just woke up.
+know | *k=quiet|n|ow=oh | I know my ABCs.
+let | l|e|t | Let me see.
+live | l|i|v|*e=quiet | Fish live in the sea.
+may | m|ay | May I have a drink?
+of | *o=uh|*f=vuh | I want a cup of milk.
+old | o=oh|l|d | My shoes are old.
+once | *o=wuh|n|*ce=sss | I went there once.
+open | o=oh|p|e|n | Open the door, please.
+over | o=oh|v|er | Jump over the log.
+put | p|*u=oo|t | Put the toys away.
+round | r|ou|n|d | The ball is round.
+some | s|*o=uh|m|*e=quiet | Can I have some cake?
+stop | s|t|o|p | Stop at the red light.
+take | t|a=ay|k|e=quiet | Take one cookie.
+thank | th|a|nk | Thank you, Mum.
+them | th|e|m | I like them a lot.
+then | th|e|n | First we eat, then we play.
+think | th|i|nk | I think it will rain.
+walk | w|*al=aw|k | We walk to school.
+warm | w|*ar=or|m | The sun is warm.
+were | w|*ere=er | We were at the beach.
+when | wh|e|n | When is your birthday?
+
+## 2nd Grade (46)
+always | *al=aw|w|ay|*s=zz | I always say please.
+around | *a=uh|r|ou|n|d | The cat ran around the tree.
+because | b|*e=ee|c|*au=aw|*se=zz | I smile because I am happy.
+been | b|*ee=ih|n | I have been to the zoo.
+before | b|*e=ee|f|*ore=or | Wash your hands before you eat.
+best | b|e|s|t | You are my best friend.
+both | b|o=oh|th | I like both of them.
+buy | b|*uy=eye | Let us buy some bread.
+call | c|*a=aw|ll | Call me later.
+cold | c|o=oh|l|d | The ice is cold.
+does | d|*oe=uh|*s=zz | Does the dog bark?
+don't | d|o=oh|n|*'=!This mark means a letter is missing. Don't means do not.|t | Don't run in the house.
+fast | f|a|s|t | The car is fast.
+first | f|ir|s|t | I was first in line.
+five | f|i=eye|v|e=quiet | I have five fingers.
+found | f|ou|n|d | I found my shoe.
+gave | g|a=ay|v|e=quiet | Dad gave me a hug.
+goes | g|*oe=oh|*s=zz | The bus goes fast.
+green | g|r|ee|n | The grass is green.
+its | i|t|s | The dog wagged its tail.
+made | m|a=ay|d|e=quiet | I made a card for Mum.
+many | m|*a=eh|n|*y=ee | How many cats are there?
+off | o|ff | Turn off the light.
+or | or | Do you want milk or juice?
+pull | p|*u=oo|ll | Pull the rope.
+read | r|ea|d | I like to read books.
+right | r|igh|t | Raise your right hand.
+sing | s|i|ng | We sing in the morning.
+sit | s|i|t | Sit on the mat.
+sleep | s|l|ee|p | I sleep in my bed.
+tell | t|e|ll | Tell me a story.
+their | th|*eir=air | They took their bags.
+these | th|e=ee|s=zz|e=quiet | These shoes are mine.
+those | th|o=oh|s=zz|e=quiet | Those birds are loud.
+upon | u|p|o|n | Once upon a time.
+us | u|s | Come and play with us.
+use | u=yoo|s=zz|e=quiet | Use a pencil.
+very | v|e|r|*y=ee | I am very hungry.
+wash | w|*a=aw|sh | Wash your face.
+which | wh|i|ch | Which one do you want?
+why | wh|*y=eye | Why is the sky blue?
+wish | w|i|sh | I wish I could fly.
+work | w|*or=er|k | Dad goes to work.
+would | w|*oul=oo|d | Would you like a drink?
+write | *w=quiet|r|i=eye|t|e=quiet | I can write my name.
+your | y|*our=or | Where is your bag?
+
+## 3rd Grade (40)
+about | *a=uh|b|ou|t | Tell me about your day.
+better | b|e|tt|er | I feel better now.
+bring | b|r|i|ng | Bring your book to school.
+carry | c|a|rr|*y=ee | Can you carry this bag?
+clean | c|l|ea|n | Clean up your room.
+cut | c|u|t | Cut the paper in half.
+done | d|*o=uh|n|*e=quiet | I am done eating.
+draw | d|r|aw | I like to draw cats.
+drink | d|r|i|nk | Drink your water.
+eight | *eigh=ay|t | A spider has eight legs.
+fall | f|*a=aw|ll | Leaves fall from trees.
+far | f|ar | The moon is far away.
+full | f|*u=oo|ll | My cup is full.
+got | g|o|t | I got a new toy.
+grow | g|r|ow=oh | Plants grow in the sun.
+hold | h|o=oh|l|d | Hold my hand.
+hot | h|o|t | The soup is hot.
+hurt | h|ur|t | Did you hurt your knee?
+if | i|f | Ask me if you need help.
+keep | k|ee|p | Keep your room tidy.
+kind | k|*i=eye|n|d | Be kind to others.
+laugh | l|*augh=arf | The clown made me laugh.
+light | l|igh|t | Turn on the light.
+long | l|o|ng | The snake is long.
+much | m|u|ch | Thank you very much.
+myself | m|*y=eye|s|e|l|f | I did it myself!
+never | n|e|v|er | I never give up.
+only | *o=oh|n|l|*y=ee | I have only one pencil.
+own | ow=oh|n | I have my own room.
+pick | p|i|ck | Pick up your toys.
+seven | s|e|v|e|n | There are seven days in a week.
+shall | sh|a|ll | Shall we play a game?
+show | sh|ow=oh | Show me your picture.
+six | s|i|x | I am six years old.
+small | s|m|*a=aw|ll | The mouse is small.
+start | s|t|ar|t | Ready, set, start!
+ten | t|e|n | I can count to ten.
+today | t|*o=uh|d|ay | Today is Sunday.
+together | t|*o=uh|g|e|th|er | We play together.
+try | t|r|*y=eye | Try again, you can do it!
